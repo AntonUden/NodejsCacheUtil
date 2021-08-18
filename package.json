@@ -1,0 +1,15 @@
+{
+  "name": "cacheutil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CacheUtil.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Zeeraa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "sha256-file": "^1.0.0"
+  }
+}
