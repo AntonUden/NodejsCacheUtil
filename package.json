@@ -9,7 +9,7 @@
   "author": "Zeeraa",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "sha256-file": "^1.0.0"
   }
 }
